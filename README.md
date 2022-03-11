@@ -1,3 +1,24 @@
+# Notice
+
+This is a fork, without tracking and other potential fishy things.
+
+Security concerns:
+https://github.com/greatsuspender/thegreatsuspender/issues/1263
+
+Versions:
+https://github.com/greatsuspender/thegreatsuspender/tags
+
+Fork no tracking:
+https://github.com/aciidic/thegreatsuspender-notrack/tree/master/src
+
+Similar app from the original creator
+https://github.com/deanoemcke/thegreatdiscarder
+
+```
+-- -- -- Original readme starts below -- -- --
+```
+
+
 # The Great Suspender
 
 <img src="/src/img/suspendy-guy.png" width="100px" />
